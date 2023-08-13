@@ -1,7 +1,8 @@
-[![MasterHead](https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif)
+[![MasterHead](https://learnsql.com/blog/how-much-do-data-analysts-earn/gif2.gif)
 
 <h1 align="center">Hi 👋, I'm Lakshmi Narashimman D</h1>
 <h3 align="center">A data analyst who adds value to business and solves their problems by finding the hidden patterns in it!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnsimha95&label=Profile%20views&color=0e75b6&style=flat" alt="lnsimha95" /> </p>
 
 - 🌱 I’m currently learning **Deep learning**
@@ -13,6 +14,8 @@
 - 💬 Ask me about **Python, SQL, Excel, PowerBI, Tableau, and Machine Learning**
 
 - 📫 How to reach me **lnsimha95@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/lnsimha95/Lakshmi-Narashimman-Resume/blob/main/Lakshmi%20Narashimman-%20Data%20Analyst%20Resume.pdf](https://github.com/lnsimha95/Lakshmi-Narashimman-Resume/blob/main/Lakshmi%20Narashimman-%20Data%20Analyst%20Resume.pdf)
 
 - ⚡ Fun fact **I am a statistics explorer**
 
