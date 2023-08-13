@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Lakshmi Narashimman D</h1>
 <h3 align="center">A data analyst who adds value to business and solves their problems by finding the hidden patterns in it!</h3>
+(img align="center" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnsimha95&label=Profile%20views&color=0e75b6&style=flat" alt="lnsimha95" /> </p>
 
